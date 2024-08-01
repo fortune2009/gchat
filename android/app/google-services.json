@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "622858656476",
+    "project_id": "gchat-reown",
+    "storage_bucket": "gchat-reown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622858656476:android:9105e6c6dd89a432bbf219",
+        "android_client_info": {
+          "package_name": "com.gchat.gchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622858656476-5raihgo9ln5fsm10ebsl9467giaikedt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gchat.gchat",
+            "certificate_hash": "5b8693a2bcfdcd3f80e9fae4a5f69272197b833c"
+          }
+        },
+        {
+          "client_id": "622858656476-4obtp4qhd16c5unojf2o3b6mba0h98dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhQPm2cREEXKQ6FV5U1D8S0bYIDjhbco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622858656476-4obtp4qhd16c5unojf2o3b6mba0h98dr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622858656476-lue156fotchstph37lsuru1ouion1k87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gchat.gchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

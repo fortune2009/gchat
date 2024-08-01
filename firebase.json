@@ -1,0 +1,49 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gchat-reown",
+          "appId": "1:622858656476:android:9105e6c6dd89a432bbf219",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "gchat-reown",
+          "appId": "1:622858656476:ios:da7eab13a19f157dbbf219",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "gchat-reown",
+          "appId": "1:622858656476:ios:da7eab13a19f157dbbf219",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gchat-reown",
+          "configurations": {
+            "android": "1:622858656476:android:9105e6c6dd89a432bbf219",
+            "ios": "1:622858656476:ios:da7eab13a19f157dbbf219",
+            "macos": "1:622858656476:ios:da7eab13a19f157dbbf219",
+            "web": "1:622858656476:web:4b1aafbafb15b656bbf219",
+            "windows": "1:622858656476:web:6b14372c98b22a9fbbf219"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "qq",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
