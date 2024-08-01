@@ -3,6 +3,11 @@
 ## Overview
 GChat is a real-time chat application built using Flutter. The application allows friends and family to have text-based conversations in real time. The backend is powered by Firebase RealTime Database for real-time communication.
 
+## Deliverables
+GitHub Repository: [GChat GitHub Repository](https://github.com/fortune2009/gchat.git)
+Deployed Application for Beta Testing: [Firebase App Distribution](https://appdistribution.firebase.dev/i/a07af6aca7f4861a)
+APK File: [Google Drive APK file](https://drive.google.com/file/d/1wjylsb_wMQQO69QjAEDAsQPTtgCUVw0F/view)
+
 ## Features
 - User Signup
 - User Login
